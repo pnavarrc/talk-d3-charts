@@ -1,0 +1,23 @@
+{
+  "name": "talk-d3-charts",
+  "version": "0.1.0",
+  "description": "Talk - Creating Reusable Charts with D3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pnavarrc/talk-d3-charts.git"
+  },
+  "keywords": [
+    "d3",
+    "talk"
+  ],
+  "author": "Pablo Navarro Castillo <pnavarrc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pnavarrc/talk-d3-charts/issues"
+  },
+  "homepage": "https://github.com/pnavarrc/talk-d3-charts",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-stylus": "^0.21.0"
+  }
+}
