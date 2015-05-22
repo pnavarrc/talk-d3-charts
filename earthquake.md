@@ -46,3 +46,5 @@ We will use these three charts to create a more complex chart (our earthquake ch
 We will also add a delay when updating the radius of the circles, creating a timelapse
 
 <a class="jsbin-embed" href="http://jsbin.com/jodoja/latest/embed?output&height=540px">JS Bin</a>
+
+[Tnanks](thanks.md)

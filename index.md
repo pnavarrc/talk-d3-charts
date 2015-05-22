@@ -6,7 +6,6 @@ layout: default
 
 _Pablo Navarro Castillo, Vancouver, May 2015_
 
-
 ## What is a Chart?
 
 A chart is a _mapping_ between data attributes and visual attributes of objects representing the data items. The data attributes are encoded using position, colour, size or shape of the visual elements. In this example from from [xkcd](https://xkcd.com/388/), the position of visual items is used to represent the tastiness and easiness of eating fruits
