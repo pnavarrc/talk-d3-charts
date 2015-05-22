@@ -4,7 +4,7 @@ layout: default
 
 # Creating Reusable Charts with D3
 
-_Pablo Navarro Castillo, Vancouver, May 2015_
+_[Pablo Navarro Castillo](about.html), AxiomZen, Vancouver May 2015_
 
 ## What is a Chart?
 

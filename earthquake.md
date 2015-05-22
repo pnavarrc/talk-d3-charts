@@ -47,4 +47,4 @@ We will also add a delay when updating the radius of the circles, creating a tim
 
 <a class="jsbin-embed" href="http://jsbin.com/jodoja/latest/embed?output&height=540px">JS Bin</a>
 
-[Tnanks](thanks.md)
+[Thanks!](thanks.html)
