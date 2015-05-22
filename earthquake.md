@@ -31,3 +31,5 @@ We will separate the components of our chart in smaller units. We will create a 
 
 <a class="jsbin-embed" href="http://jsbin.com/jodoja/latest/embed?js&height=2000px">JS Bin</a>
 
+[Next](/maps.html)
+
