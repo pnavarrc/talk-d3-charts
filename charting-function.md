@@ -6,7 +6,7 @@ layout: default
 
 The sequence of creating a selection, binding the data, creating elements on enter, updating and removing the items on exit can be put in a function to make our code more modular. We can then invoke our charting function passing the container selection to it, making easier to update the data.
 
-<a class="jsbin-embed" href="http://jsbin.com/qupeza/1/embed?js,output">Creating a Charting Function</a>
+<a class="jsbin-embed" href="http://jsbin.com/qupeza/1/embed?js,output&height=900px">Creating a Charting Function</a>
 
 There is some room for improvement here. Our charting function is assuming that the container selection contains a single DOM element, but it might not always be the case. As selections are basically arrays of DOM elements, we will use [each](https://github.com/mbostock/d3/wiki/Selections#each) to iterate through the elements in the selection.
 
