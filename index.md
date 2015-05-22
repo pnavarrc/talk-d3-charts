@@ -16,7 +16,7 @@ A chart is a _mapping_ between data attributes and visual attributes of objects 
 
 Bar charts, for instance, use rectangles to represent the data items, encoding one quantitative dimension in the length of one of the sides of the rectangle
 
-![Bar chart](/images/barchart.jpg)
+![Bar chart](images/barchart.jpg)
 
 In most charting software and utils, we are given a set of charts (bar chart, scatter plot) and we need to provide the data to create the items. With D3, we create charts by manipulating the mapping between data attributes and attributes (and styles) of DOM elements.
 
@@ -24,7 +24,7 @@ In most charting software and utils, we are given a set of charts (bar chart, sc
 
 [D3.js](http://www.d3js.org) is a JavaScript library to bind data elements to documents (DOM elements) and manipulate attributes of the documents based in the data bound to it.
 
-![Data Binding](/images/data-binding.jpg)
+![Data Binding](images/data-binding.jpg)
 
 Binding data items to DOM elements allows us to manipulate their attributes, in this case, the div width and content. The color, margin and borders are set using CSS:
 
@@ -45,7 +45,7 @@ D3 creates special selections, that allow us to create, remove and update the el
 
 If there are more DOM elements that data items, the remaining DOM elements will be stored in the [exit selection](https://github.com/mbostock/d3/wiki/Selections#exit). These elements can be manipulated in the same way that regular selections, except that they don’t have bound data items.
 
-![Exit selection](/images/exit-selection.jpg)
+![Exit selection](images/exit-selection.jpg)
 
 <a class="jsbin-embed" href="http://jsbin.com/wilaja/latest/embed?html,js&height=700px">JS Bin</a>
 
