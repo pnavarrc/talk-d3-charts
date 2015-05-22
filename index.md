@@ -101,7 +101,9 @@ SVG is a vectorial image format. Modern browsers can reder SVG natively. SVG can
 
 ## Earthquake Chart
 
-Now that we understand the essentials, we will create a chart with real data.
+Now that we understand the essentials, we will create a chart with real data [earthquake chart](/earthquake.html)
+
+
 
 ## Links and Resources
 
