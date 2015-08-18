@@ -1,5 +1,8 @@
 # Creating reusable charts with D3.js
 
+> Vancouver, June 2015
+
+[Live version](http://pnavarrc.github.io/talk-d3-charts/)
 
 ## Data
 
